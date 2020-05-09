@@ -72,4 +72,28 @@ App has the following elements:
     · The list goes back to 1/22/2020 when cases were first starting, and shows the user of the timline as the number of cases increased.
       
 
+Login Page:
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/login%20page.png)
+
+Search Region
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/search%20region.png)
+
+Region Stats:
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/stats.png)
+
+Pie Chart:
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/pie%20chart.png)
+
+COVID-19 History Line Graph:
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/timeline.png)
+
+Prediction Line Graph:
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/prediction.png)
+
+Ratio Bar Graph:
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/bar%20graph.png)
+
+COVID-19 Live Updates:
+![IMG1](https://github.com/sharonfrey/COVID-19-Tracker-App/blob/master/demo%20pictures/updates.png)
+
 
